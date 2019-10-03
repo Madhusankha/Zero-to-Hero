@@ -26,7 +26,7 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 
 # Contributors :
 1. [M.Anantha Vijay](https://github.com/Ananthavijay)
-2. [Kamontat Chantrachirathumrong](https://github.com/kamontat) 
+2. [Kamontat Chantrachirathumrong](https://github.com/kamontat)
 3. [Harshit Garg](https://github.com/mathagician)
 4. [Salil Cuncoliencar](https://github.com/salilbc)
 5. [Allen Joseph](https://github.com/AllenAJ)
@@ -35,4 +35,11 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 8. [Le-Morri](https://github.com/Le-Morri)
 9. [Shivam Sharma](https://github.com/shivams112)
 10. [Aashish Raj Gupta](https://github.com/aashish157)
-11. [Pasindu Madhusankha](https://github.com/Madhusankha)
+11. [Akanksha Singh](https://github.com/akanksha1212)
+12. [Animesh Barua](https://github.com/LIGHT1210)
+13. [Campo Vettoriale](https://github.com/CampoVettoriale1)
+14. [Vorabhol Chuaybhan](https://github.com/max003003003)
+15. [Aayush Sinha](https://github.com/aayushsinha44)
+16. [Vedant Goyal](https://github.com/vedant3620)
+17. [Harshit Singh](https://github.com/Harshit564)
+18. [Pasindu Madhusankha](https://github.com/Madhusankha)
